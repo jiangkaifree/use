@@ -20,3 +20,7 @@
 ## 文档
 
 [docusaurus](https://docusaurus.io/zh-CN/)
+
+## svg
+
+[SVG.js](https://svgjs.dev/docs/3.0/)
