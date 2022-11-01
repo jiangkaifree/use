@@ -28,3 +28,4 @@ vue react
 ## svg
 
 [SVG.js](https://svgjs.dev/docs/3.0/)
+[snapsvg](http://snapsvg.io/)
