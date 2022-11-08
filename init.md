@@ -29,7 +29,7 @@
 
 [ArcoDesign](https://arco.design/)
 
-
+[Vuestic UI](https://vuestic.dev/zh/introduction/overview)
 
 
 
@@ -63,7 +63,10 @@ Uniapp
 ## document
 
 [docusaurus](https://docusaurus.io/zh-CN/)
+
 [astro](https://astro.build/)
+
+[Markdoc](https://markdoc.dev/)
 
 ## svg
 
@@ -73,6 +76,12 @@ Uniapp
 ## 大屏可视化
 
 [GoView](https://www.mtruning.club/)
+
+## Build
+
+vite
+
+
 
 ## 低代码
 
