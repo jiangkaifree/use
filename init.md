@@ -68,6 +68,8 @@ Uniapp
 
 [Markdoc](https://markdoc.dev/)
 
+[Astro.js](https://astro.build/)
+
 ## svg
 
 [SVG.js](https://svgjs.dev/docs/3.0/)
