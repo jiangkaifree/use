@@ -27,9 +27,7 @@ React.js 的替代版，相同的 `api` ，更小的体积
 
 [Github](https://github.com/preactjs/preact)
 
-## Astro.js
 
-[Document](https://astro.build/)
 
 ## PetiteVue
 `Vue` 作者尤雨溪大神的新作品，`Vue` 的小巧可代替版，值得关注。
