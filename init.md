@@ -90,9 +90,11 @@ Uniapp
 
 ## utils
 
-[readme.so](https://readme.so)
+[Immutablejs](https://immutable-js.com/)
 
-## more
+## others
 
 [docx.js](https://docx.js.org/#/)
+[readme.so](https://readme.so)
+
 
