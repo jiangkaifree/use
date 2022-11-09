@@ -84,7 +84,6 @@ Uniapp
 
 ## 大屏可视化
 
-[GoView](https://www.mtruning.club/)
 
 ## Build
 
@@ -96,6 +95,9 @@ vite
 
 
 ## 低代码
+
+
+[GoView](https://www.mtruning.club/)
 
 ## 数据流
 
