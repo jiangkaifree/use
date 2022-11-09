@@ -106,9 +106,15 @@ vite
 
 [react-query]()
 
-## study
+## study 
 
 [roadmap](https://roadmap.sh/)
+
+## 面试
+
+[前端面试1](https://vue3js.cn/interview/) [GIthub](https://github.com/febobo/web-interview)
+
+[语雀文档 前端面试](https://www.yuque.com/cuggz/interview)
 
 ## utils
 
