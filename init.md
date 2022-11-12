@@ -34,6 +34,8 @@
 
 [Vuestic UI](https://vuestic.dev/zh/introduction/overview)
 
+[DevUI](https://vue-devui.github.io/)
+
 ## 微服务
 
 [Micro-App](https://zeroing.jd.com/micro-app/)
@@ -82,10 +84,11 @@ Uniapp
 
 [Astro.js](https://astro.build/)
 
-## svg
+## SVG/Canvas/图像
 
 [SVG.js](https://svgjs.dev/docs/3.0/)
 [snapsvg](http://snapsvg.io/)
+[Fabricjs](http://fabricjs.com/)
 
 ## 大屏可视化
 
