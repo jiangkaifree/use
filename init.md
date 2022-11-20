@@ -102,6 +102,10 @@ vite
 
 [Foal]()
 
+## Web3
+
+[Web3.js](https://web3js.org/)
+
 
 ## 低代码
 
@@ -130,6 +134,7 @@ vite
 ## utils
 
 [Immutablejs](https://immutable-js.com/)
+[GraphQL](https://graphql.cn/)
 
 ## others
 
