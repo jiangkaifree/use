@@ -9,6 +9,10 @@
 [Ant Motion](https://motion.ant.design/index-cn) 使用 Ant Motion 能够快速在 React 框架中使用动画。
 我们提供了单项，组合动画，以及整套解决方案。
 
+[React-Query](https://cangsdarm.github.io/react-query-web-i18n/)
+
+[React-Joyride](https://docs.react-joyride.com/) react中的项目页面引导工具🔧
+
 
 ## Vue.js
 
@@ -17,6 +21,9 @@
 [vuejs-challenges](https://cn-vuejs-challenges.netlify.app/)
 
 [VueUse]()
+
+[Vue-Tour](https://pulsardev.github.io/vue-tour/)
+[VuePress]()
 
 
 
@@ -85,6 +92,10 @@ Uniapp
 
 [Astro.js](https://astro.build/)
 
+[Gridsome](https://gridsome.org/)
+
+[Storybook](https://storybook.js.org/)
+
 ## Svg/Canvas/图像
 
 [SVG.js](https://svgjs.dev/docs/3.0/)
@@ -115,26 +126,34 @@ vite
 ## 数据流
 
 [umi-request]()
-
+[GraphQL](https://graphql.cn/)
 
 [swr](https://swr.bootcss.com/)
 
 [react-query]()
 
-## study 
+## study / 面试
 
 [roadmap](https://roadmap.sh/)
 
-## 面试
+[javascript-questions](https://github.com/lydiahallie/javascript-questions)
 
 [前端面试1](https://vue3js.cn/interview/) [GIthub](https://github.com/febobo/web-interview)
 
 [语雀文档 前端面试](https://www.yuque.com/cuggz/interview)
 
+[js-concepts](https://github.com/leonardomso/33-js-concepts)
+
+js基础讲解指南
+
 ## utils
 
 [Immutablejs](https://immutable-js.com/)
-[GraphQL](https://graphql.cn/)
+
+[intro.js](https://introjs.com/) 页面新手引导工具
+
+[Shepherd](https://shepherdjs.dev/) 页面新手引导工具
+
 
 ## others
 
