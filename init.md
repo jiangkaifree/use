@@ -96,6 +96,8 @@ Uniapp
 
 [Storybook](https://storybook.js.org/)
 
+[dumi](https://d.umijs.org/)
+
 ## Svg/Canvas/图像
 
 [SVG.js](https://svgjs.dev/docs/3.0/)
