@@ -13,6 +13,7 @@
 
 [React-Joyride](https://docs.react-joyride.com/) react中的项目页面引导工具🔧
 
+[scrollytelling](https://scrollytelling.basement.studio/) [Github](https://github.com/basementstudio/scrollytelling) 页面全屏滚动特效
 
 ## Vue.js
 
@@ -23,6 +24,7 @@
 [VueUse]()
 
 [Vue-Tour](https://pulsardev.github.io/vue-tour/)
+
 [VuePress]()
 
 
@@ -46,7 +48,10 @@
 ## 微服务
 
 [Micro-App](https://zeroing.jd.com/micro-app/)
+
 [Garfishjs](https://www.garfishjs.org/guide/)
+
+[Wujie](https://wujie-micro.github.io/doc/guide/)
 
 ## H5
 
@@ -122,17 +127,17 @@ vite
 
 ## 低代码
 
-
 [GoView](https://www.mtruning.club/)
 
-## 数据流
+## 数据流/请求
 
-[umi-request]()
+[umi-request](https://github.com/umijs/umi-request)
+
 [GraphQL](https://graphql.cn/)
 
 [swr](https://swr.bootcss.com/)
 
-[react-query]()
+[Alova](https://alova.js.org/zh-CN/)
 
 ## study / 面试
 
