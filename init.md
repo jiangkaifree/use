@@ -15,6 +15,12 @@
 
 [scrollytelling](https://scrollytelling.basement.studio/) [Github](https://github.com/basementstudio/scrollytelling) 页面全屏滚动特效
 
+[valtio](https://valtio.pmnd.rs/docs/introduction/getting-started)
+
+[zustand](https://zustand-demo.pmnd.rs/)
+
+[Recoil](https://recoiljs.org/zh-hans/docs/introduction/installation)
+
 ## Vue.js
 
 [eslint-plugin-vue](https://eslint.vuejs.org/)
