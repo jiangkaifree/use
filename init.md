@@ -21,6 +21,8 @@
 
 [Recoil](https://recoiljs.org/zh-hans/docs/introduction/installation)
 
+[jotai](https://jotai.org/)
+
 ## Vue.js
 
 [eslint-plugin-vue](https://eslint.vuejs.org/)
